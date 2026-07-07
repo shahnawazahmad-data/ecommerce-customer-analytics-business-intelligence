@@ -142,6 +142,24 @@ Based on the analysis, the following recommendations were identified:
 - Monitor business KPIs using interactive Power BI dashboards.
 - Support data-driven decision-making through predictive analytics and business intelligence.
 
+## Skills Demonstrated
+
+- SQL Database Design
+- SQL Views, Stored Procedures & Triggers
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- Statistical Analysis
+- Business Analytics
+- Data Visualization
+- Power BI Dashboard Development
+- Machine Learning
+- Predictive Analytics
+- Business Intelligence
+- Customer Segmentation
+- Sales & Revenue Analysis
+- Forecasting
+- Git & GitHub
+
 ## Repository Structure
 
 ```text
