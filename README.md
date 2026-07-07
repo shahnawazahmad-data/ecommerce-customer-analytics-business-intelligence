@@ -22,6 +22,26 @@ This project demonstrates a complete end-to-end Business Analytics workflow by i
 - Built an interactive multi-page Power BI dashboard for executive reporting.
 - Generated business recommendations to support strategic decision-making.
 
+## Dashboard Preview
+
+The project includes an interactive multi-page Power BI dashboard designed to support business decision-making across customer acquisition, retention, revenue analysis, forecasting, and operational performance.
+
+### Executive Dashboard
+
+![Executive Dashboard](dashboard-screenshots/02_executive_dashboard.png)
+
+### Customer Acquisition Dashboard
+
+![Customer Acquisition](dashboard-screenshots/03_customer_acquisition.png)
+
+### Retention & Loyalty Dashboard
+
+![Retention & Loyalty](dashboard-screenshots/04_retention_and_loyalty.png)
+
+### Forecasting & Pricing Dashboard
+
+![Forecasting & Pricing](dashboard-screenshots/05_forecasting_and_pricing.png)
+
 ## Business Problem
 
 Modern e-commerce businesses generate large volumes of transactional and customer data. However, without effective analysis, valuable business opportunities often remain hidden.
