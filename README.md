@@ -28,19 +28,27 @@ The project includes an interactive multi-page Power BI dashboard designed to su
 
 ### Executive Dashboard
 
-![Executive Dashboard](dashboard-screenshots/02_executive_dashboard.png)
+<p align="center">
+  <img src="dashboard-screenshots/02_executive_dashboard.png" width="900">
+</p>
 
 ### Customer Acquisition Dashboard
 
-![Customer Acquisition](dashboard-screenshots/03_customer_acquisition.png)
+<p align="center">
+  <img src="dashboard-screenshots/03_customer_acquisition.png" width="900">
+</p>
 
 ### Retention & Loyalty Dashboard
 
-![Retention & Loyalty](dashboard-screenshots/04_retention_and_loyalty.png)
+<p align="center">
+  <img src="dashboard-screenshots/04_retention_and_loyalty.png" width="900">
+</p>
 
 ### Forecasting & Pricing Dashboard
 
-![Forecasting & Pricing](dashboard-screenshots/05_forecasting_and_pricing.png)
+<p align="center">
+  <img src="dashboard-screenshots/05_forecasting_and_pricing.png" width="900">
+</p>
 
 ## Business Problem
 
