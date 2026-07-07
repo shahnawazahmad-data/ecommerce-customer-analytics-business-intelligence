@@ -8,6 +8,20 @@ Using SQL, Python, Power BI, and Machine Learning, the project transforms raw tr
 
 The objective is to support data-driven decision-making that improves customer understanding, operational efficiency, and overall business performance.
 
+## Project Highlights
+
+This project demonstrates a complete end-to-end Business Analytics workflow by integrating multiple technologies into a single business solution.
+
+### Key Deliverables
+
+- Designed and optimized a relational database using MySQL.
+- Automated business logic using SQL Views, Stored Procedures, and Triggers.
+- Performed data preprocessing and exploratory data analysis using Python.
+- Applied statistical techniques to validate business insights.
+- Developed machine learning models for customer behavior analysis and forecasting.
+- Built an interactive multi-page Power BI dashboard for executive reporting.
+- Generated business recommendations to support strategic decision-making.
+
 ## Business Problem
 
 Modern e-commerce businesses generate large volumes of transactional and customer data. However, without effective analysis, valuable business opportunities often remain hidden.
