@@ -97,6 +97,33 @@ The primary objectives of this project are to:
 7. Machine Learning Model Development
 8. Business Insights & Recommendations
 
+## Analytics Workflow
+
+```text
+Raw Data
+    │
+    ▼
+Data Cleaning & Preprocessing (Python)
+    │
+    ▼
+Exploratory Data Analysis (Python)
+    │
+    ▼
+Statistical Analysis
+    │
+    ▼
+SQL Database & Automation
+    │
+    ▼
+Power BI Dashboard Development
+    │
+    ▼
+Machine Learning Models
+    │
+    ▼
+Business Insights & Recommendations
+```
+
 ## Key Business Insights
 
 - Customer retention is strongest during the early purchase lifecycle, highlighting the importance of onboarding strategies.
